@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: a7788c66194f886479807ee436412995
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c03d9c8ec334fb46a1ac17a32075576
+      internalID: -1226100199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1536
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f09311111745148861543333b6b8fd
+      internalID: -71091206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_2
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1536
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76c2f0312cb4c645849dd4a43492851
+      internalID: 354162558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_3
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1536
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e0df6d31fc1f94db608c4f90fdedf1
+      internalID: 1141766142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_4
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1536
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f59fe9bd03c061479530304a182bb8c
+      internalID: 1288819547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_5
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1536
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b381b21694ab9408a6a744c3faa3fc
+      internalID: -711841647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_6
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1536
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028ac32d03bb3dd4484550552f5a98ed
+      internalID: 28914742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efb0f4c717ec724f80d6475729ddeaa
+      internalID: -1940940881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1024
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2525e623a6b667e438a3d9eff7090f4f
+      internalID: -833513192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_9
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1024
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b81201b4f0ee6443bc9f47a8ba01ab6
+      internalID: -843382167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_10
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1024
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3913633842bcbc2409da774df5740955
+      internalID: -1889966428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_11
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1024
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aff1e404cdefce4da1f472c0d11dd70
+      internalID: 51794079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_12
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1024
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bad21c89c0d22444a412015f4c2e28f
+      internalID: 118313909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_13
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1024
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab425d22fdb6a145bc2de915f0473b1
+      internalID: -443110309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcb7e7f1e92c564f8662175ab258501
+      internalID: -524859440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 512
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802dff003133c7845ae9d11433fb68e2
+      internalID: -705746335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_16
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 512
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c17357d3455603429f2277be42ab65b
+      internalID: -1151840437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_17
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 512
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1405e917e0c0ba44fad5cb7a7aa54f74
+      internalID: -187478129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_18
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 512
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cea798ecd3ee741a3d3f8b77c646e8
+      internalID: 643626663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_19
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 512
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e7ea040a810a348b9661bf317d7cb5
+      internalID: 1946227801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_20
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 512
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a1f0931e6c08548855909b3a538140
+      internalID: 407580132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d051aa99f4057449793f1f6866d275
+      internalID: -683637120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a374ecd5efa434091683410c799296
+      internalID: -582785120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_23
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf28fb1520d1af248b0aa0d02bf6da54
+      internalID: 799881412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_24
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a13a51bb41ec546849b27668d6158e
+      internalID: -1407716223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_25
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 0
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbe90a7912e74f46971a78d801af710
+      internalID: -1404072138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_26
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba3014def5c9d448bd5d4458f6f7d70
+      internalID: -1460526863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingCards_LineUp_HeartDiamond_col_27
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 0
+        width: 282
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00db4fb1ee7f2c34f81bb2c5ab74ba54
+      internalID: -593629953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayingCards_LineUp_HeartDiamond_col_0: -1226100199
+      PlayingCards_LineUp_HeartDiamond_col_1: -71091206
+      PlayingCards_LineUp_HeartDiamond_col_10: -1889966428
+      PlayingCards_LineUp_HeartDiamond_col_11: 51794079
+      PlayingCards_LineUp_HeartDiamond_col_12: 118313909
+      PlayingCards_LineUp_HeartDiamond_col_13: -443110309
+      PlayingCards_LineUp_HeartDiamond_col_14: -524859440
+      PlayingCards_LineUp_HeartDiamond_col_15: -705746335
+      PlayingCards_LineUp_HeartDiamond_col_16: -1151840437
+      PlayingCards_LineUp_HeartDiamond_col_17: -187478129
+      PlayingCards_LineUp_HeartDiamond_col_18: 643626663
+      PlayingCards_LineUp_HeartDiamond_col_19: 1946227801
+      PlayingCards_LineUp_HeartDiamond_col_2: 354162558
+      PlayingCards_LineUp_HeartDiamond_col_20: 407580132
+      PlayingCards_LineUp_HeartDiamond_col_21: -683637120
+      PlayingCards_LineUp_HeartDiamond_col_22: -582785120
+      PlayingCards_LineUp_HeartDiamond_col_23: 799881412
+      PlayingCards_LineUp_HeartDiamond_col_24: -1407716223
+      PlayingCards_LineUp_HeartDiamond_col_25: -1404072138
+      PlayingCards_LineUp_HeartDiamond_col_26: -1460526863
+      PlayingCards_LineUp_HeartDiamond_col_27: -593629953
+      PlayingCards_LineUp_HeartDiamond_col_3: 1141766142
+      PlayingCards_LineUp_HeartDiamond_col_4: 1288819547
+      PlayingCards_LineUp_HeartDiamond_col_5: -711841647
+      PlayingCards_LineUp_HeartDiamond_col_6: 28914742
+      PlayingCards_LineUp_HeartDiamond_col_7: -1940940881
+      PlayingCards_LineUp_HeartDiamond_col_8: -833513192
+      PlayingCards_LineUp_HeartDiamond_col_9: -843382167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
